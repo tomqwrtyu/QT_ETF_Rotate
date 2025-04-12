@@ -1,0 +1,1 @@
+python -c "import tensorflow; import pandas; import sklearn; import yfinance; print('All good!')"
