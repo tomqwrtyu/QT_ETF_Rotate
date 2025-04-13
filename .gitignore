@@ -1,3 +1,6 @@
 *DS_Store
 *ipynb_checkpoints
 *__pycache__
+# Ignore all files in the dataset folder
+dataset/*
+!dataset/.gitkeep
